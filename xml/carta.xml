@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato tipo='Tapas'>
+        <nombre>Patatas Bravas </nombre>
+        <precio>...................................................................... 4,49€ </precio>
+        <descripcion>Patatas caseras con salsa picante </descripcion>
+        <calorias> 475 kcal</calorias>
+        <ingredientes>
+        <item class= "ingrediente"> img/compartir.svg</item> 
+        </ingredientes>
+    </plato>
+    <plato tipo='Tapas'>
+        <nombre> Croqueta Especial</nombre>
+        <precio> ................................................................ 3,49€</precio>
+        <descripcion>Croqueta casera de pollo </descripcion>
+        <calorias>300 kcal </calorias>
+        <ingredientes> 
+        <item class= "ingrediente">img/compartir.svg </item> <item>img/carne.svg </item>
+        </ingredientes>
+    </plato>
+    <plato tipo='Tapas'>
+        <nombre> Calamares a la romana</nombre>
+        <precio> ....................................................... 3,99€</precio>
+        <descripcion> Calamares caseros rebozados</descripcion>
+        <calorias>300 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/compartir.svg </item> <item>img/pescado.svg </item>
+        </ingredientes>
+    </plato>
+    <plato tipo='Tapas'>
+        <nombre> Tortilla de patatas</nombre>
+        <precio>................................................................. 4,99€</precio>
+        <descripcion>Tortilla de patatas casera sin cebolla </descripcion>
+        <calorias>625 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/compartir.svg </item>   
+        </ingredientes>
+    </plato>
+    <plato tipo='Tapas'>
+        <nombre> Jamon y queso</nombre>
+        <precio>....................................................................... 2,49€ </precio>
+        <descripcion>Jamon y queso </descripcion>
+        <calorias> 200 kcal</calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/compartir.svg </item>  
+        </ingredientes>
+    </plato>
+    <plato tipo='Ensaladas'>
+        <nombre>Ensalada Cesar </nombre>
+        <precio> ...................................................................... 5,49€</precio>
+        <descripcion> Lechuga, tomate,olivas y cebolla </descripcion>
+        <calorias> 275 kcal</calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/ensalada.png </item> <item> img/singluten.svg</item>   
+        </ingredientes>
+    </plato>
+    <plato tipo='Ensaladas'>
+        <nombre> Ensalada Waldorf</nombre>
+        <precio>................................................................... 4,99€</precio>
+        <descripcion> Lechuga, manzana, nueces, apio y mayonesa</descripcion>
+        <calorias>250 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/ensalada.png  </item> <item> img/singluten.svg</item> 
+        </ingredientes>
+    </plato>
+    <plato tipo='Bocadillos'>
+        <nombre>Bocadillo de lomo </nombre>
+        <precio>............................................................... 4,49€ </precio>
+        <descripcion>Bocadillode lomo con tomate </descripcion>
+        <calorias> 500 kcal</calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/bocadillo.png </item> <item>img/carne.svg </item>  
+        </ingredientes>
+    </plato>
+    <plato tipo='Bocadillos'>
+        <nombre>Bocadillo de tortilla </nombre>
+        <precio>............................................................ 4,49€ </precio>
+        <descripcion>Bocadillo de tortilla casera sin cebolla </descripcion>
+        <calorias>525 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/bocadillo.png </item>   
+        </ingredientes>
+    </plato>
+    <plato tipo='Bocadillos'>
+        <nombre>Bocadillo bacon con queso </nombre>
+        <precio>................................................. 4,95€</precio>
+        <descripcion>Bocadillo de bacon y queso con tomate </descripcion>
+        <calorias> 585 kcal</calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/bocadillo.png </item> <item>img/carne.svg </item>
+        </ingredientes>
+    </plato>
+    <plato tipo='Bocadillos'>
+        <nombre>Bocadillo de pechuga rebozada </nombre>
+        <precio>......................................... 4,95€</precio>
+        <descripcion>Pechuga rebozada </descripcion>
+        <calorias>495 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/bocadillo.png  </item> <item>img/carne.svg </item>
+        </ingredientes>
+    </plato>
+    <plato tipo='Carnes y pescados'>
+        <nombre>Entrecot argentino </nombre>
+        <precio>............................................................. 11,99€ </precio>
+        <descripcion>Entrecot de lomo con salsa chimichurri </descripcion>
+        <calorias>500 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/carne.svg </item>   
+        </ingredientes>
+    </plato>
+    <plato tipo='Carnes y pescados'>
+        <nombre>Chuletitas de cordero de toras </nombre>
+        <precio>......................................... 9,99€ </precio>
+        <descripcion>Chuletas de cordero con un toque picante </descripcion>
+        <calorias>600 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/carne.svg </item> <item>img/picante.svg </item> 
+        </ingredientes>
+    </plato>
+    <plato tipo='Carnes y pescados'>
+        <nombre> Embutidos de toras a la parrilla</nombre>
+        <precio>......................................... 7,49€ </precio>
+        <descripcion>Embutido a la parrilla </descripcion>
+        <calorias>545 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/carne.svg </item>   
+        </ingredientes>
+    </plato>
+    <plato tipo='Carnes y pescados'>
+        <nombre>Bacalao a la plancha </nombre>
+        <precio>........................................................... 11,49€ </precio>
+        <descripcion>Bacalao fresco a la plancha </descripcion>
+        <calorias>425 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/pescado.svg </item>  
+        </ingredientes>
+    </plato>
+    <plato tipo='Arroces'>
+        <nombre>Fideua Marinera </nombre>
+        <precio>................................................................ 12,49€ </precio>
+        <descripcion>Fideua marinera con almejas y mejillones </descripcion>
+        <calorias>350 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/arroz.png </item>  <item>img/pescado.svg </item> 
+        </ingredientes>
+    </plato>
+    <plato tipo='Arroces'>
+        <nombre>Fideua de corral </nombre>
+        <precio>................................................................... 9,99€ </precio>
+        <descripcion>Fideua con setas y corral </descripcion>
+        <calorias>325 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/arroz.png </item>  
+        </ingredientes>
+    </plato>
+    <plato tipo='Postres'>
+        <nombre> Tarta de queso </nombre>
+        <precio>..................................................................... 4,99€</precio>
+        <descripcion>Tarta de queso de mermelada </descripcion>
+        <calorias>250 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/postre.png </item> <item>img/singluten.svg </item> 
+        </ingredientes>
+    </plato>
+    <plato tipo='Postres'>
+        <nombre>Coulant de chocolate </nombre>
+        <precio>........................................................... 4,99€ </precio>
+        <descripcion>Chocolate negro con 2 cucharadas de cacao </descripcion>
+        <calorias>250 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/postre.png </item>  <item>img/singluten.svg </item>  
+        </ingredientes>
+    </plato>
+    <plato tipo='Postres'>
+        <nombre>Tatin de manzana </nombre>
+        <precio>................................................................ 4,99€ </precio>
+        <descripcion>Delicioso tatin de manzana </descripcion>
+        <calorias>250 kcal </calorias>
+        <ingredientes>
+        <item class= "ingrediente">img/postre.png </item>  <item>img/singluten.svg </item> 
+        </ingredientes>
+    </plato>
+</menu>

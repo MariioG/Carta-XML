@@ -1,0 +1,77 @@
+body {
+    background-color: antiquewhite;
+}
+
+.tapas {
+    font-family: 'Beau Rivage', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 3rem;
+}
+
+.foto {
+    padding-left: 40%;
+    width: 275px;
+    height: 100px;
+}
+
+.ingrediente {
+    width: 25px;
+    height: 25px;
+}
+
+.rayas {
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+.column-1 {
+    width: 100%;
+    float: left;
+}
+
+.column-2 {
+    width: 50%;
+    float: left;
+}
+
+.column3 {
+    width: 33%;
+    float: left;
+}
+
+.column-4 {
+    width: 25%;
+    float: left;
+}
+
+.column-5 {
+    width: 20%;
+    float: left;
+}
+
+.column-6 {
+    width: 16.66%;
+    float: left;
+}
+
+@media only screen and (max-width: 600px) {
+    .foto {
+        padding-left: 0%;
+    }
+    /*pasará de tener 50% a 100%*/
+    .column-2 {
+        width: 100%;
+    }
+    /*pasará de tener 33% a 100%*/
+    .column3 {
+        width: 100%;
+    }
+    /*pasará de tener 25% a 50%*/
+    .column-4 {
+        width: 50%;
+    }
+}
